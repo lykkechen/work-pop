@@ -1,5 +1,9 @@
 # 07-aggiungi-una-sezione-colorata
 
+| Capitolo precedente  | Capitolo successivo     |
+| :--------------- | ---------------: |
+| [◀︎ 06-aggiungi-le-colonne](../06-aggiungi-le-colonne)| [08-crea-section-per-esperienze ▶︎](../08-crea-section-per-esperienze) |
+
 - [Bulma](https://bulma.io/documentation/) possiede delle sezioni colorate che si chiamano `hero`
 - Cerca su [Bulma](https://bulma.io/documentation/) come inserire un hero verde acqua
 - Aggiungi l’hero in fondo, subito sotto alla `section` con la tua descrizione
@@ -12,3 +16,8 @@
 ### Centra il contenuto delle colonne
 
 - Aggiungi classe `has-text-centered` al container per centrare il contenuto di tutte le colonne
+
+
+| Capitolo precedente  | Capitolo successivo     |
+| :--------------- | ---------------: |
+| [◀︎ 06-aggiungi-le-colonne](../06-aggiungi-le-colonne)| [08-crea-section-per-esperienze ▶︎](../08-crea-section-per-esperienze) |

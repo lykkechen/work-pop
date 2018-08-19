@@ -1,5 +1,9 @@
 # 08-crea-section-per-esperienze
 
+| Capitolo precedente  | Capitolo successivo     |
+| :--------------- | ---------------: |
+| [◀︎ 07-aggiungi-una-sezione-colorata](../07-aggiungi-una-sezione-colorata)| [09—crea-una-sezione-contatti ▶︎](../09-crea-una-sezione-contatti) |
+
 - Crea una nuova section con un title
 - Cerca su [Bulma](https://bulma.io/documentation/) l’elemento media object
 - Crea un media object
@@ -9,3 +13,7 @@
 - All’interno del media-content crea un `div content` con all’interno titolo e descrizione dell’esperienza
 
 Ora hai creato il primo elemento, se ne vuoi aggiungere altri ti basta copiare e sostituire il contenuto 😍
+
+| Capitolo precedente  | Capitolo successivo     |
+| :--------------- | ---------------: |
+| [◀︎ 07-aggiungi-una-sezione-colorata](../07-aggiungi-una-sezione-colorata)| [09—crea-una-sezione-contatti ▶︎](../09-crea-una-sezione-contatti) |
