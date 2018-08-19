@@ -2,7 +2,7 @@
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
-| [◀︎ 07-aggiungi-una-sezione-colorata](../07-aggiungi-una-sezione-colorata)| [09—crea-una-sezione-contatti ▶︎](../09-crea-una-sezione-contatti) |
+| [◀︎ 07-aggiungi-una-sezione-colorata](../07-aggiungi-una-sezione-colorata)| [09-crea-una-sezione-contatti ▶︎](../09-crea-una-sezione-contatti) |
 
 - Crea una nuova section con un title
 - Cerca su [Bulma](https://bulma.io/documentation/) l’elemento media object
@@ -16,4 +16,4 @@ Ora hai creato il primo elemento, se ne vuoi aggiungere altri ti basta copiare e
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
-| [◀︎ 07-aggiungi-una-sezione-colorata](../07-aggiungi-una-sezione-colorata)| [09—crea-una-sezione-contatti ▶︎](../09-crea-una-sezione-contatti) |
+| [◀︎ 07-aggiungi-una-sezione-colorata](../07-aggiungi-una-sezione-colorata)| [09-crea-una-sezione-contatti ▶︎](../09-crea-una-sezione-contatti) |

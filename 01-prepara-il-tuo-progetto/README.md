@@ -1,8 +1,8 @@
 # 01-prepara-il-tuo-progetto
 
-| Capitolo precedente  | Capitolo successivo     |
+|   | Capitolo successivo     |
 | :--------------- | ---------------: |
-| [◀︎](../)| [02-inizia-a-personalizzare-il-template ▶︎](../02-inizia-a-personalizzare-il-template) |
+| [◀︎ Introduzione](https://github.com/lykkechen/work-pop/)| [02-inizia-a-personalizzare-il-template ▶︎](../02-inizia-a-personalizzare-il-template) |
 
 - Crea una cartella vuota e chiamala `workshop-poplar`
 - Apri **visual studio code** e apri la cartella con `File > Apri…`
@@ -14,6 +14,6 @@
 - Vai nella cartella `workshop-poplar` e apri il file `index.html` con un browser
 ###### Come puoi vedere hai appena una pagina web 😍
 
-| Capitolo precedente  | Capitolo successivo     |
+|   | Capitolo successivo     |
 | :--------------- | ---------------: |
-| [◀︎](../)| [02-inizia-a-personalizzare-il-template ▶︎](../02-inizia-a-personalizzare-il-template) |
+| [◀ Introduzione](https://github.com/lykkechen/work-pop/)| [02-inizia-a-personalizzare-il-template ▶︎](../02-inizia-a-personalizzare-il-template) |
