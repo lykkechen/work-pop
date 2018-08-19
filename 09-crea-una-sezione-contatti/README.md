@@ -2,7 +2,7 @@
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
-| [◀︎ 03 — Crea section per esperienze](../08-crea-section-per-esperienze)| [▶︎]() |
+| [◀︎ 08-crea-section-per-esperienze](../08-crea-section-per-esperienze)| [▶︎](..) |
 
 - Crea un nuovo hero colorato
 - Aggiungi un titolo per indicare che si tratta della sezione contatti
@@ -15,4 +15,4 @@ Se vuoi, puoi aggiungere altri anchor tag e inserire altri collegamenti ad altri
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
-| [◀︎ 03 — Crea section per esperienze](../08-crea-section-per-esperienze)| [▶︎]() |
+| [◀︎ 08-crea-section-per-esperienze](../08-crea-section-per-esperienze)| [▶︎](../work-pop) |
