@@ -9,7 +9,7 @@
 * Crea un paragrafo con il tag `p`  con il tuo anno di nascita
 * Crea un paragrafo con il tag `p`  con il luogo di nascita
 
-![03-image](../assets/Lessons/03-image)
+<kbd>![03-image](../assets/Lessons/03-image)</kbd>
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |

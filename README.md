@@ -6,9 +6,16 @@ Realizzare un sito web da zero 😊
 Questo è ció che vogliamo ottenere, date un'occhiata [qui](https://ladygaga-resume.netlify.com/) 😉
 
 
-`
+
 ---
-`
+
+# Todo
+
+- Spostare gli index di uno a destra
+- Aggiungere background colorato al sito
+
+---
+
 
 # Lezioni
 Pregi di bulma bello e responsive
