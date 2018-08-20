@@ -1,5 +1,15 @@
 # Girls Code It Workshop
 
+## Obiettivo di oggi!
+
+Realizzare un sito web da zero 😊
+Questo è ció che vogliamo ottenere, date un'occhiata [qui](https://ladygaga-resume.netlify.com/) 😉
+
+
+`
+---
+`
+
 # Lezioni
 Pregi di bulma bello e responsive
 https://ladygaga-resume.netlify.com/
@@ -115,7 +125,7 @@ Se vuoi puoi aggiungere altri anchor tag e inserire gli altri collegamenti ad al
 - Aggiungere nuove sezioni e un menu personalizzato
 - Aggiungere page anchors e un menu personalizzato
 - Aggiungere animazioni standard
-- Aggiungere un video di youtube in una section\
+- Aggiungere un video di youtube in una section
 # Riunione: Organizzazione workshop
 #girlscodeit
 

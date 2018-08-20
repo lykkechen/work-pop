@@ -14,6 +14,8 @@
 - Vai nella cartella `workshop-poplar` e apri il file `index.html` con un browser
 ###### Come puoi vedere hai appena una pagina web 😍
 
+![01-image](../assets/01-image)
+
 |   | Capitolo successivo     |
 | :--------------- | ---------------: |
 | [◀ Introduzione](https://github.com/lykkechen/work-pop/)| [02-inizia-a-personalizzare-il-template ▶︎](../02-inizia-a-personalizzare-il-template) |

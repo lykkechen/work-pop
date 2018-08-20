@@ -12,6 +12,8 @@
 
 Se vuoi, puoi aggiungere altri anchor tag e inserire altri collegamenti ad altri tuoi social 😍
 
+![09-image](../assets/09-image)
+
 
 | Capitolo precedente  |      |
 | :--------------- | ---------------: |

@@ -14,6 +14,8 @@
 
 Ora hai creato il primo elemento, se ne vuoi aggiungere altri ti basta copiare e sostituire il contenuto 😍
 
+![08-image](../assets/08-image)
+
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
 | [◀︎ 07-aggiungi-una-sezione-colorata](../07-aggiungi-una-sezione-colorata)| [09-crea-una-sezione-contatti ▶︎](../09-crea-una-sezione-contatti) |

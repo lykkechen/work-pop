@@ -19,6 +19,8 @@ Come vedrai le colonne hanno la stessa dimensione, ovvero ognuna occupa metà de
 - Noi abbiamo impostato le proporzioni della prima colonna affinché sia di 1/3 e il testo di 2/3
 - Sperimenta con le varie classi e poi osserva il risultato ricaricando la pagina del browser 😍
 
+![06-image](../assets/06-image)
+
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
 | [◀︎ 05-aggiungi-la-tua-foto](../05-aggiungi-la-tua-foto)| [07-aggiungi-una-sezione-colorata ▶︎](../07-aggiungi-una-sezione-colorata) |
