@@ -10,7 +10,7 @@
 - Sostituisci l’interno di  `src="..."`  con il nome della tua immagine, compresa l’estensione (.png o .jpg)
 - Ricarica la pagina nel browser per vedere il risultato
 
-<kbd><img src="../assets/Lessons/05-image.png" width="30%"/></kbd>
+<img src="../assets/Lessons/05-image.png" width="30%"/>
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |

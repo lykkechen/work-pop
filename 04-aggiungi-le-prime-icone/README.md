@@ -7,7 +7,7 @@
 - All'interno dei tag `p` inserisci l'elemento `icona` prendendo il codice dal sito di [Bulma](https://bulma.io/documentation/).
 Puoi trovare altre icone gratuite sul sito di [Fontawesome](https://fontawesome.com/icons?d=gallery&m=free).
 
-<kbd>![04-image](../assets/Lessons/04-image)<kbd>
+<kbd>![04-image](../assets/Lessons/04-image.png)</kbd>
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
