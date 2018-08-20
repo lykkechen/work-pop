@@ -12,7 +12,7 @@
 
 Se vuoi, puoi aggiungere altri anchor tag e inserire altri collegamenti ad altri tuoi social 😍
 
-![09-image.png](../assets/Lessons/09-image.png)
+<kbd>![09-image.png](../assets/Lessons/09-image.png)</kbd>
 
 
 | Capitolo precedente  |      |

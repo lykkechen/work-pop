@@ -17,7 +17,7 @@
 
 - Aggiungi classe `has-text-centered` al container per centrare il contenuto di tutte le colonne
 
-![07-image.png](../assets/Lessons/07-image.png)
+<kbd>![07-image.png](../assets/Lessons/07-image.png)</kbd>
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |

@@ -13,7 +13,7 @@ Oggi utilizzerai [Netlify](https://www.netlify.com) un servizio di hosting gratu
 
 - Puoi anche modificare il nome del link (la parte prima di `.netlify.com`)
 - Ti basta andare in `Site Settings` e cliccare su `Change site name`
-![10-image-1.png](../assets/Lessons/10-image-1.png)
+<kbd>![10-image-1.png](../assets/Lessons/10-image-1.png)</kbd>
 
 | Capitolo precedente  |      |
 | :--------------- | ---------------: |

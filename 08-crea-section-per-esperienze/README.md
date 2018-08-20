@@ -14,7 +14,7 @@
 
 Ora hai creato il primo elemento, se ne vuoi aggiungere altri ti basta copiare e sostituire il contenuto 😍
 
-![08-image.png](../assets/Lessons/08-image.png)
+<kbd>![08-image.png](../assets/Lessons/08-image.png)</kbd>
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
