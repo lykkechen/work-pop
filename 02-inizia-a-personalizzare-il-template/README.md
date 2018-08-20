@@ -8,7 +8,7 @@
 * Sostituisci il contenuto del tag `p` con una tua breve biografia
 * Puoi vedere il risultato ricaricando la pagina web sul browser 🎉
 
-![02-image](../assets/02-image)
+![02-image](../assets/Lessons/02-image)
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |

@@ -14,7 +14,7 @@
 
 Ora hai creato il primo elemento, se ne vuoi aggiungere altri ti basta copiare e sostituire il contenuto 😍
 
-![08-image](../assets/08-image)
+![08-image](../assets/Lessons/08-image)
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |

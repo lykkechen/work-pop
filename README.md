@@ -66,7 +66,7 @@ Apri Visual Studio Code > Clicca su File > Spunta l’opzione **salvataggio auto
 # 06-aggiungi-le-colonne
 - Vai su [Bulma](https://bulma.io/documentation/) e cerca come inserire **2 colonne**
 
-![Bulma columns](../assets/bulma-columns.gif)
+![Bulma columns](../assets/Lessons/bulma-columns.gif)
 
 - Copia le colonne subito sotto al `<div class="container">`
 - Nella prima inserisci tutto il tag relativo all’immagine

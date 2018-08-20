@@ -14,7 +14,7 @@
 - Vai nella cartella `workshop-poplar` e apri il file `index.html` con un browser
 ###### Come puoi vedere hai appena una pagina web 😍
 
-![01-image](../assets/01-image)
+![01-image](../assets/Lessons/01-image)
 
 |   | Capitolo successivo     |
 | :--------------- | ---------------: |

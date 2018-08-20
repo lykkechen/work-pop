@@ -10,7 +10,7 @@
 - Sostituisci l’interno di  `src="..."`  con il nome della tua immagine, compresa l’estensione (.png o .jpg)
 - Ricarica la pagina nel browser per vedere il risultato
 
-![05-image](../assets/05-image)
+![05-image](../assets/Lessons/05-image)
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
