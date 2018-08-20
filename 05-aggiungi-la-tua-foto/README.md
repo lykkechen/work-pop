@@ -10,7 +10,7 @@
 - Sostituisci l’interno di  `src="..."`  con il nome della tua immagine, compresa l’estensione (.png o .jpg)
 - Ricarica la pagina nel browser per vedere il risultato
 
-![05-image.png](../assets/Lessons/05-image.png)
+<img src="../assets/Lessons/05-image.png" height="30%"/>
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
