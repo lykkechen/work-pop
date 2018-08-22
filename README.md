@@ -1,4 +1,4 @@
-# Girls Code It Workshop
+# Workshop Poplar
 
 ## Obiettivo di oggi!
 
