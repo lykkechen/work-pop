@@ -6,6 +6,9 @@ Realizzare un sito web da zero 😊
 Questo è ciò che vogliamo ottenere, date un'occhiata [qui](https://ladygaga-resume.netlify.com/) 😉
 
 
+[]()https://htmlreference.io/base/
+
+
 
 ---
 
