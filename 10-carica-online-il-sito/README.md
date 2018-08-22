@@ -1,8 +1,10 @@
 # 10-carica-online
 
-| Capitolo precedente  |      |
+| Capitolo precedente | Intro |
 | :--------------- | ---------------: |
-| [◀︎ 08-crea-section-per-esperienze](../08-crea-section-per-esperienze)| [▶︎](https://github.com/lykkechen/work-pop/) |
+| [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti)| [https://github.com/lykkechen/work-pop/ ▶︎](https://github.com/lykkechen/work-pop/) |
+
+
 
 - Per caricare un sito online serve un servizio che metta a disposizione uno spazio online.
 Oggi utilizzerai [Netlify](https://www.netlify.com) un servizio di hosting gratuito.
@@ -21,7 +23,6 @@ Oggi utilizzerai [Netlify](https://www.netlify.com) un servizio di hosting gratu
 ![10-image-1.png](../assets/Lessons/10-image-1.png)
 
 
-
-| Capitolo precedente  |      |
+| Capitolo precedente  | Intro |
 | :--------------- | ---------------: |
-| [◀︎ 08-crea-section-per-esperienze](../08-crea-section-per-esperienze)| [▶︎](https://github.com/lykkechen/work-pop/) |
+| [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti)| [https://github.com/lykkechen/work-pop/ ▶︎](https://github.com/lykkechen/work-pop/) |
