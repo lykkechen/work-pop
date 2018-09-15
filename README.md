@@ -6,16 +6,20 @@ Realizzare un sito web da zero 😊
 Questo è ciò che vogliamo ottenere, date un'occhiata [qui](https://ladygaga-resume.netlify.com/) 😉
 
 
-[]()https://htmlreference.io/base/
+## Com'è fatta una pagina web?
+
+📹 [Breve video introduttivo](https://www.youtube.com/watch?v=gT0Lh1eYk78)
+
+👩🏻‍💻 [Struttura HTML]()https://htmlreference.io/base/
 
 
+### HTML
 
----
+Fare breve spiegazione
 
-# Todo
+### CSS
 
-- Spostare gli index di uno a destra
-- Aggiungere background colorato al sito
+Fare breve spiegazione - Bulma
 
 ---
 
@@ -23,11 +27,6 @@ Questo è ciò che vogliamo ottenere, date un'occhiata [qui](https://ladygaga-re
 # Lezioni
 Pregi di bulma bello e responsive
 https://ladygaga-resume.netlify.com/
-
-Importatante
-
-Indentare    Option + shift + F
-
 
 
 
