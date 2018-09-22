@@ -1,10 +1,10 @@
-#### 03-modifica-il-layout
+# 03-modifica-il-layout
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
 | [◀︎ 02-inizia-a-personalizzare-il-template](../02-inizia-a-personalizzare-il-template)| [04-aggiungi-le-prime-icone ▶︎](../04-aggiungi-le-prime-icone) |
 
-### Obiettivo: modifichiamo il layout della pagina
+## Obiettivo: modifichiamo il layout della pagina
 
 > Oltre ai tag per formattare il testo ci sono quelli veri propri per modificare il layout.
 > Div e section sono contenitori che contengono altri elementi e permetto di dividere in sezioni la pagina.
