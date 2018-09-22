@@ -2,11 +2,19 @@
 
 | Capitolo precedente                                                                                                                                          | Capitolo successivo                                                                           |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
-| [◀︎ 01-comincia-a-preparare-il-tuo-progetto](../01-comincia-a-preparare-il-tuo-progetto)  | [03-crea-un-altra-sezione ▶︎](../03-crea-un-altra-sezione) |
+| [◀︎ 01-comincia-a-preparare-il-tuo-progetto](../01-comincia-a-preparare-il-tuo-progetto)  | [03-modifica-il-layout ▶︎](../03-modifica-il-layout) |
 
 ### Obiettivo: personalizzare il template con una piccola biografia
 
+<<<<<<< HEAD
 > Le pagine HTML sono costituite da diversi elementi specifici per questo tipo di documenti.
+=======
+> Gli elementi HTML sono gli elementi costitutivi delle pagine HTML
+> 
+> Gli elementi, a loro volta, sono costituiti da tag e possono avere degli attributi
+> 
+> I tag HTML etichettano parti di contenuto come "heading", "paragraph", "table" e così via
+>>>>>>> 92d3688c29f325f268022125e1a72613d9055e51
 >
 > Gli elementi sono costituiti da cosiddetti "tag" e possono avere degli attributi.
 >
@@ -18,9 +26,9 @@
 <kbd>![02-elementi-tag](../assets/Lessons/02-elementi-tag.png)</kbd>
 
 
-* Sostituisci all'interno dell'elemento `h1` il contenuto `Hello World` con `Bio`
-* Sostituisci il contenuto dell'elemento `p` con una tua breve biografia
+* Sostituisci all'interno dell'elemento `h1` il contenuto **Hello World** con **Bio**
 * Puoi vedere il risultato ricaricando la pagina web sul browser 🎉
+* Sostituisci il contenuto dell'elemento `p` con una tua breve biografia
 
 
 <kbd>![02-image](../assets/Lessons/02-image.png)</kbd>
