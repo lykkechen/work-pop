@@ -5,14 +5,15 @@
 Realizzare un sito web da zero 😊
 Questo è ciò che vogliamo ottenere, date un'occhiata [qui](https://ladygaga-resume.netlify.com/) 😉
 
+
 ---
 
 
 ## Com'è fatta una pagina web?
 
-📹 [Breve video introduttivo](https://www.youtube.com/watch?v=gT0Lh1eYk78)
+📹  [Qui c'è un breve video introduttivo](https://www.youtube.com/watch?v=gT0Lh1eYk78)
 
-👩🏻‍💻 [Struttura HTML]()https://htmlreference.io/base/
+👩🏻‍💻  Questo sito ti permette invece di comprendere meglio la [struttura HTML](https://htmlreference.io/base/)
 
 
 ### HTML
@@ -30,8 +31,7 @@ Bulma è come una cassetta degli attrezzi, ti mette a disposizione gli strumenti
 
 ---
 
-<<<<<<< HEAD
-=======
+
 # Indice dei capitoli
 
 0. [Installazione](00-installazione)
@@ -46,20 +46,10 @@ Bulma è come una cassetta degli attrezzi, ti mette a disposizione gli strumenti
 9. [Crea una sezione contatti](09-crea-una-sezione-contatti)
 10. [Carica online il sito](10-carica-online-il-sito)
 
-
 --- 
 
->>>>>>> 4948eabf7949e2c218f8665d48c1af1e1c89ef5e
-## Next steps
-- Configurazione dominio personalizzato (gratuito oppure a pagamento)
-- Aggiungere nuove sezioni e un menu personalizzato
-- Aggiungere page anchors e un menu personalizzato
-- Aggiungere animazioni standard
-- Aggiungere un video di youtube in una section
 
+# Potenzia il tuo sito
 
-## Requisiti
-Installare visual studio code, capire il concetto di file ed estensione, saper organizzare un progetto minimo e saper aprire una pagina web con il browser.
-
-## Workshop
-Obiettivi: imparare a creare la prima pagina HTML con Bulma + Fontawesome 5, capire la differenza tra tag/class/style e la struttura del DOM, caricare su netlify il proprio sito web.
+Una volta che avrai creato il tuo sito potrai potenziarlo e personalizzarlo.
+Puoi cliccare qui per scoprire come fare: [potenzia-il-tuo-sito](potenzia-il-tuo-sito)
