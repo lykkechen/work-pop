@@ -8,7 +8,7 @@
 
 > Gli elementi HTML sono gli elementi costitutivi delle pagine HTML
 > 
-> Gli elementi sono costituiti da tag e possono avere degli attributi
+> Gli elementi, a loro volta, sono costituiti da tag e possono avere degli attributi
 > 
 > I tag HTML etichettano parti di contenuto come "heading", "paragraph", "table" e così via
 >
@@ -18,9 +18,9 @@
 <kbd>![02-elementi-tag](../assets/Lessons/02-elementi-tag.png)</kbd>
 
 
-* Sostituisci all'interno dell'elemento `h1` il contenuto `Hello World` con `Bio`
-* Sostituisci il contenuto dell'elemento `p` con una tua breve biografia
+* Sostituisci all'interno dell'elemento `h1` il contenuto **Hello World** con **Bio**
 * Puoi vedere il risultato ricaricando la pagina web sul browser 🎉
+* Sostituisci il contenuto dell'elemento `p` con una tua breve biografia
 
 
 <kbd>![02-image](../assets/Lessons/02-image.png)</kbd>
