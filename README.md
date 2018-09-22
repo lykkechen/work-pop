@@ -30,13 +30,22 @@ Bulma è come una cassetta degli attrezzi, ti mette a disposizione gli strumenti
 
 ---
 
+# Indice dei capitoli
 
-# Lezioni
-Pregi di bulma bello e responsive
-https://ladygaga-resume.netlify.com/
+0. Installazione
+1. Comincia il tuo progetto
+2. Inizia a personalizzare il template
+3. Crea un'altra sezione
+4. Aggiungi le prime icone
+5. Aggiungi la tua foto
+6. Aggiungi le colonne
+7. Aggiungi una sezione colorata
+8. Crea una section per le tue esperienze
+9. Crea una sezione contatti
+10. Carica online il sito
 
 
-
+--- 
 
 ## Next steps
 - Configurazione dominio personalizzato (gratuito oppure a pagamento)
