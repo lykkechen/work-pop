@@ -6,8 +6,12 @@
 
 Per prima cosa possiamo creare il nostro documento HTML che sarà un file con estensione `.html`
 
+
 - Per comodità creiamo una cartella vuota, puoi chiamarla `coding-is-poplar`
 - Apri **visual studio code** e apri la cartella con `File > Apri…`
+
+<kbd>![apri-progetto](../assets/apri-progetto.png)</kbd>
+
 - Crea un file `index.html`
 - Vai sul sito di [Bulma](https://bulma.io/documentation/overview/start/) e copia lo **Starter template** nel file `index.html` appena creato
 
