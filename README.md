@@ -25,7 +25,7 @@ CSS _(Cascading Style Sheet)_ è un linguaggio che viene utilizzato per gestire 
 
 Oggi utilizzeremo [Bulma](https://bulma.io).
 
-Bulma è come una cassetta degli attrezzi, ti mette a disposizione gli strumenti e tu puoi prendere quello che ti serve per costruire la tua pagina web 😊
+Bulma è come una cassetta degli attrezzi, ti mette a disposizione gli strumenti e tu puoi prendere quello che ti serve per costruire la tua pagina web, in particolare ti dà degli stili CSS carini già pronti per essere utilizzati 😊
 
 
 ---
