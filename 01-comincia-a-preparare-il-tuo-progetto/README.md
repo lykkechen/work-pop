@@ -10,12 +10,17 @@ Obiettivo: creare il nostro documento HTML, un file con estensione `.html`
 - Per comodità creiamo una cartella vuota, puoi chiamarla `coding-is-poplar`
 - Apri **visual studio code** e apri la cartella con `File > Apri…`
 
+
 <kbd>![apri-progetto](../assets/apri-progetto.png)</kbd>
+
 
 - Crea un file `index.html`
 - Vai sul sito di [Bulma](https://bulma.io/documentation/overview/start/) e copia lo **Starter template** nel file `index.html` appena creato
 
+
 <kbd>![01-body-head](../assets/Lessons/01-body-head.png)</kbd>
+
+
 
 > Come puoi vedere un documento HTML è composto da due parti principali, una parte superiore chiamata 'head' (testa) e una parte inferiore chiamata "body" (corpo).
 
@@ -27,6 +32,7 @@ Obiettivo: creare il nostro documento HTML, un file con estensione `.html`
 
 
 ###### Come puoi vedere hai appena una pagina web 😍
+
 
 <kbd>![01-image](../assets/Lessons/01-image.png)</kbd>
 
