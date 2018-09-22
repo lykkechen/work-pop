@@ -30,14 +30,6 @@ Bulma è come una cassetta degli attrezzi, ti mette a disposizione gli strumenti
 
 ---
 
-
-# Lezioni
-Pregi di bulma bello e responsive
-https://ladygaga-resume.netlify.com/
-
-
-
-
 ## Next steps
 - Configurazione dominio personalizzato (gratuito oppure a pagamento)
 - Aggiungere nuove sezioni e un menu personalizzato
