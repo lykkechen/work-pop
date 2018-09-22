@@ -1,4 +1,4 @@
-#### 01-comincia-a-preparare-il-tuo-progetto 
+# 01-comincia-a-preparare-il-tuo-progetto 
 
 |                                                           | Capitolo successivo                                                                    |
 | :-------------------------------------------------------- | -------------------------------------------------------------------------------------: |
