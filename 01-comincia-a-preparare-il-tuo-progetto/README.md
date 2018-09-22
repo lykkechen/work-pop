@@ -8,7 +8,7 @@
 
 
 - Per comodità creiamo una cartella vuota, puoi chiamarla `coding-is-poplar`
-- Apri **visual studio code** e apri la cartella con `File > Apri…`
+- Apri **Visual Studio Code** e apri la cartella con `File > Apri…`
 
 
 <kbd>![apri-progetto](../assets/apri-progetto.png)</kbd>
@@ -31,7 +31,7 @@
 - Vai nella cartella `coding-is-poplar`, con il tasto destro apri con un browser `index.html` per visualizzare la pagina.
 
 
-###### Come puoi vedere hai appena una pagina web 😍
+### Come puoi vedere hai appena una pagina web 😍
 
 
 <kbd>![01-image](../assets/Lessons/01-image.png)</kbd>

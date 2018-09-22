@@ -13,7 +13,7 @@ Creare l'ambiente di lavoro
 * Qui trovi il [link: https://code.visualstudio.com](https://code.visualstudio.com)
   
 #### 2. Attiva il salvataggio automatico
-1. Apri `Visual Studio Code`
+1. Apri **Visual Studio Code**
 2. Clicca su `File`
 3. Spunta l’opzione **salvataggio automatico**
 
