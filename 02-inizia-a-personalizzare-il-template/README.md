@@ -6,17 +6,10 @@
 
 ### Obiettivo: personalizzare il template con una piccola biografia
 
-<<<<<<< HEAD
+
 > Le pagine HTML sono costituite da diversi elementi specifici per questo tipo di documenti.
-=======
-> Gli elementi HTML sono gli elementi costitutivi delle pagine HTML
-> 
-> Gli elementi, a loro volta, sono costituiti da tag e possono avere degli attributi
-> 
-> I tag HTML etichettano parti di contenuto come "heading", "paragraph", "table" e così via
->>>>>>> 92d3688c29f325f268022125e1a72613d9055e51
 >
-> Gli elementi sono costituiti da cosiddetti "tag" e possono avere degli attributi.
+> Gli elementi, a loro volta, sono costituiti da tag e possono avere degli attributi
 >
 > I tag HTML etichettano parti di contenuto come "heading", "paragraph", "table" e così via.
 >

@@ -12,8 +12,4 @@ Puoi trovare altre icone gratuite sul sito di [Fontawesome](https://fontawesome.
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
-<<<<<<< HEAD
-| [◀︎ 03-crea-un-altra-sezione](../03-crea-un-altra-sezione)| [05-aggiungi-la-tua-foto ▶︎](../05-aggiungi-la-tua-foto) |
-=======
 | [◀︎ 03-modifica-il-layout](../003-modifica-il-layout)| [05-aggiungi-la-tua-foto ▶︎](../05-aggiungi-la-tua-foto) |
->>>>>>> 92d3688c29f325f268022125e1a72613d9055e51

@@ -1,18 +1,10 @@
-<<<<<<< HEAD
-### 01-comincia-a-preparare-il-tuo-progetto
-=======
 # 01-comincia-a-preparare-il-tuo-progetto 
->>>>>>> 92d3688c29f325f268022125e1a72613d9055e51
 
 |                                                           | Capitolo successivo                                                                    |
 | :-------------------------------------------------------- | -------------------------------------------------------------------------------------: |
 | [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [02-inizia-a-personalizzare-il-template ▶︎](../02-inizia-a-personalizzare-il-template) |
 
-<<<<<<< HEAD
 Obiettivo: creare la base del nostro documento HTML, un file con estensione `.html`
-=======
-## Obiettivo: creare il nostro documento HTML, un file con estensione `.html`
->>>>>>> 92d3688c29f325f268022125e1a72613d9055e51
 
 
 - Per comodità creiamo una cartella vuota, puoi chiamarla `coding-is-poplar`

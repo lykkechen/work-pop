@@ -17,19 +17,10 @@ Nel nostro caso, oggi utilizzeremo "Visual Studio Code", un editor di testo molt
 * Qui trovi il [link: https://code.visualstudio.com](https://code.visualstudio.com)
 
 #### 2. Attiva il salvataggio automatico
-<<<<<<< HEAD
-1. Apri Visual Studio Code
-2. Clicca su File
-=======
 1. Apri **Visual Studio Code**
 2. Clicca su `File`
->>>>>>> 92d3688c29f325f268022125e1a72613d9055e51
 3. Spunta l’opzione **salvataggio automatico**
 
 |                                                           | Capitolo successivo                                            |
 | :-------------------------------------------------------- | -------------------------------------------------------------: |
-<<<<<<< HEAD
-| [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-prepara-il-tuo-progetto ▶︎](../01-prepara-il-tuo-progetto) |
-=======
 | [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |
->>>>>>> 92d3688c29f325f268022125e1a72613d9055e51
