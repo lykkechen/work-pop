@@ -32,17 +32,17 @@ Bulma è come una cassetta degli attrezzi, ti mette a disposizione gli strumenti
 
 # Indice dei capitoli
 
-0. Installazione
-1. Comincia il tuo progetto
-2. Inizia a personalizzare il template
-3. Crea un'altra sezione
-4. Aggiungi le prime icone
-5. Aggiungi la tua foto
-6. Aggiungi le colonne
-7. Aggiungi una sezione colorata
-8. Crea una section per le tue esperienze
-9. Crea una sezione contatti
-10. Carica online il sito
+0. [Installazione](00-installazione)
+1. [Comincia il tuo progetto](01-comincia-a-preparare-il-tuo-progetto)
+2. [Inizia a personalizzare il template](02-inizia-a-personalizzare-il-template)
+3. [Crea un'altra sezione](03-crea-un-altra-sezione)
+4. [Aggiungi le prime icone](04-aggiungi-le-prime-icone)
+5. [Aggiungi la tua foto](05-aggiungi-la-tua-foto)
+6. [Aggiungi le colonne](06-aggiungi-le-colonne)
+7. [Aggiungi una sezione colorata](07-aggiungi-una-sezione-colorata)
+8. [Crea una section per le tue esperienze](08-crea-section-per-esperienze)
+9. [Crea una sezione contatti](09-crea-una-sezione-contatti)
+10. [Carica online il sito](10-carica-online-il-sito)
 
 
 --- 
