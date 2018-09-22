@@ -29,4 +29,4 @@
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
-| [◀︎ 01-comincia-a-preparare-il-tuo-progetto](../01-comincia-a-preparare-il-tuo-progetto)| [03-crea-un-altra-sezione ▶︎](../03-crea-un-altra-sezione) |
+| [◀︎ 01-comincia-a-preparare-il-tuo-progetto](../01-comincia-a-preparare-il-tuo-progetto)| [03-modifica-il-layout ▶︎](../03-modifica-il-layout) |

@@ -27,20 +27,12 @@ Obiettivo: creare la base del nostro documento HTML, un file con estensione `.ht
 > L' head contiene il TITOLO della pagina ("title", per intenderci, quello in alto quando apri una nuova scheda nel browser), link esterni, gli stili e altre informazioni per il corretto funzionamento della pagina.
 Infatti, per utilizzare Bulma oggi, inseriamo il suo link proprio all'interno della sezione head.
 >
-<<<<<<< HEAD
-> Il body contiene invece le informazioni visibiili ciò che sarà visibile, come i titoletti, i paragrafi, le immagini, ecc.
-=======
 >Il body contiene invece tutto ciò che sarà visibile, come il i titoletti, i paragrafi, le immagini, ecc.
->>>>>>> 92d3688c29f325f268022125e1a72613d9055e51
 
 - Vai nella cartella `coding-is-poplar`, con il tasto destro apri con un browser `index.html` per visualizzare la pagina.
 
 
-<<<<<<< HEAD
-###### Come puoi vedere hai appena creato una pagina web 😍
-=======
 ### Come puoi vedere hai appena una pagina web 😍
->>>>>>> 92d3688c29f325f268022125e1a72613d9055e51
 
 
 <kbd>![01-image](../assets/Lessons/01-image.png)</kbd>
