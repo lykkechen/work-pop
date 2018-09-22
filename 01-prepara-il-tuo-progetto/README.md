@@ -11,6 +11,8 @@ Per prima cosa possiamo creare il nostro documento HTML che sarà un file con es
 - Crea un file `index.html`
 - Vai sul sito di [Bulma](https://bulma.io/documentation/overview/start/) e copia lo **Starter template** nel file `index.html` appena creato
 
+<kbd>![01-body-head](../assets/Lessons/01-body-head.png)</kbd>
+
 Come puoi vedere un documento HTML è composto da due parti principali, una parte superiore chiamata 'head' (testa) e una parte inferiore chiamata "body" (corpo).
 Il head contiene il titolo della pagina (quello sulla tab), link esterni per il corretto funzionamento, noi ad esempio per utilizzare bulma inseriamo il link all'interno del head.
 
