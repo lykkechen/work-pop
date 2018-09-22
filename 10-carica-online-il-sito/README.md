@@ -4,7 +4,8 @@
 | :--------------- | ---------------: |
 | [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti)| [https://github.com/lykkechen/work-pop/ ▶︎](https://github.com/lykkechen/work-pop/) |
 
-
+Dopo aver seguito tutte le istruizioni, ora anche tu hai creato la tua personalissima pagina web. Manca ancora un ultimo, fondamentale, passaggio che rende tale un sito web: caricarlo online.
+Per fare ciò ci sono diversi dettgli da seguire:
 
 - Per caricare un sito online serve un servizio che metta a disposizione uno spazio online.
 Oggi utilizzerai [Netlify](https://www.netlify.com) un servizio di hosting gratuito.
