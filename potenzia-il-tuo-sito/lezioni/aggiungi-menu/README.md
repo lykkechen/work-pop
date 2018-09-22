@@ -9,15 +9,14 @@ Mettilo come primo elemento del `body`
 Dentro il `div class="navbar-menu"` inserisci un `div class="navbar-end"`
 
 
-Inserisci all'interno di quest'ultimo inserisci quanti `div class="navbar-item"`
+Inserisci all'interno di quest'ultimo inserisci un numero di `div class="navbar-item"` pari al numero di elementi che vorresti avere nel tuo menù.
 
-Dentro a questo inserisci un
+Dentro a questo inserisci un tag `<a>`:
 ```
 <a href="#bio">
-    <h3>Bio</h3>
+    <h3>About</h3>
 </a>
 ``` 
-
 
 Per far funzionare lo scroll fino alla sezione **bio**, inserisci dentro la section contente la bio un `<section class="section" id="bio">`
 
