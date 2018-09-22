@@ -7,6 +7,7 @@
 ## Obiettivo: modifichiamo il layout della pagina
 
 > Oltre ai tag per formattare il testo ci sono quelli veri propri per modificare il layout.
+> 
 > Div e section sono contenitori che contengono altri elementi e permetto di dividere in sezioni la pagina.
 
 * Creare una nuova `section`, cioè un blocco distinto all'interno della pagina 
