@@ -17,8 +17,6 @@ Creare l'ambiente di lavoro
 2. Clicca su File 
 3. Spunta l’opzione **salvataggio automatico**
 
-<kbd>![apri-progetto](../assets/apri-progetto.png)</kbd>
-
 |                                                           | Capitolo successivo                                            |
 | :-------------------------------------------------------- | -------------------------------------------------------------: |
 | [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-prepara-il-tuo-progetto ▶︎](../01-prepara-il-tuo-progetto) |

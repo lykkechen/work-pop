@@ -7,7 +7,7 @@
 - Crea una cartella vuota, ad esempio puoi chiamarla `workshop-poplar`
 - Apri **visual studio code** e apri la cartella con `File > Apri…`
 
-(Faccio screen sul cursore sul primo pulsante)
+<kbd>![apri-progetto](../assets/apri-progetto.png)</kbd>
 
 - Crea un file `index.html`
 - Vai sul sito di [Bulma](https://bulma.io/documentation/overview/start/) e copia lo **Starter template** nel file `index.html` appena creato
