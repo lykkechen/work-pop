@@ -9,7 +9,10 @@
 > Oltre ai tag per formattare il testo ci sono quelli veri propri per modificare il layout.
 > Div e section sono contenitori che contengono altri elementi e permetto di dividere in sezioni la pagina.
 
-* Creare una nuova section con un container
+* Creare una nuova section (divide la pagina orizzontalmente) con un container (divide verticalmente)
+
+  All'interno del container inserire:
+  
 * Crea un titolo con il tag `h1` e inserisci il tuo nome
 * Crea un paragrafo con il tag `p`  con il tuo anno di nascita
 * Crea un paragrafo con il tag `p`  con il luogo di nascita
