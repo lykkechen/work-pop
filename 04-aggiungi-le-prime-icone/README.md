@@ -12,4 +12,4 @@ Puoi trovare altre icone gratuite sul sito di [Fontawesome](https://fontawesome.
 
 | Capitolo precedente  | Capitolo successivo     |
 | :--------------- | ---------------: |
-| [◀︎ 03-modifica-il-layout](../003-modifica-il-layout)| [05-aggiungi-la-tua-foto ▶︎](../05-aggiungi-la-tua-foto) |
+| [◀︎ 03-modifica-il-layout](../03-modifica-il-laytout)| [05-aggiungi-la-tua-foto ▶︎](../05-aggiungi-la-tua-foto) |
