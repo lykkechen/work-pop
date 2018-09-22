@@ -31,6 +31,7 @@ Bulma è come una cassetta degli attrezzi, ti mette a disposizione gli strumenti
 
 ---
 
+
 # Indice dei capitoli
 
 0. [Installazione](00-installazione)
@@ -45,8 +46,8 @@ Bulma è come una cassetta degli attrezzi, ti mette a disposizione gli strumenti
 9. [Crea una sezione contatti](09-crea-una-sezione-contatti)
 10. [Carica online il sito](10-carica-online-il-sito)
 
-
 --- 
+
 
 # Potenzia il tuo sito
 
