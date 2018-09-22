@@ -37,7 +37,7 @@ Bulma è come una cassetta degli attrezzi, ti mette a disposizione gli strumenti
 0. [Installazione](00-installazione)
 1. [Comincia il tuo progetto](01-comincia-a-preparare-il-tuo-progetto)
 2. [Inizia a personalizzare il template](02-inizia-a-personalizzare-il-template)
-3. [Crea un'altra sezione](03-crea-un-altra-sezione)
+3. [Modifica il layout](03-modifica-il-layout)
 4. [Aggiungi le prime icone](04-aggiungi-le-prime-icone)
 5. [Aggiungi la tua foto](05-aggiungi-la-tua-foto)
 6. [Aggiungi le colonne](06-aggiungi-le-colonne)
