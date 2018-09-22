@@ -17,12 +17,13 @@ Obiettivo: creare il nostro documento HTML che sarà un file con estensione `.ht
 
 <kbd>![01-body-head](../assets/Lessons/01-body-head.png)</kbd>
 
-Come puoi vedere un documento HTML è composto da due parti principali, una parte superiore chiamata 'head' (testa) e una parte inferiore chiamata "body" (corpo).
-Il head contiene il titolo della pagina (quello sulla tab), link esterni per il corretto funzionamento. Noi per utilizzare bulma inseriamo il link all'interno del head.
+> Come puoi vedere un documento HTML è composto da due parti principali, una parte superiore chiamata 'head' (testa) e una parte inferiore chiamata "body" (corpo).
 
-Il body contiene invece tutto ciò che sarà visibile, come il i titoletti, i paragrafi, le immagini, ecc.
+> Il head contiene il titolo della pagina (quello sulla tab), link esterni per il corretto funzionamento. Noi per utilizzare bulma inseriamo il link all'interno del head.
 
-- Vai nella cartella `workshop-poplar` e apri il file `index.html` con un browser per visualizzarla.
+>Il body contiene invece tutto ciò che sarà visibile, come il i titoletti, i paragrafi, le immagini, ecc.
+
+- Vai nella cartella `coding-is-poplar`, con il tasto destro apri con un browser `index.html` per visualizzare la pagina.
 
 
 ###### Come puoi vedere hai appena una pagina web 😍
