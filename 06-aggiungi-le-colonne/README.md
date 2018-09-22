@@ -4,6 +4,8 @@
 | :--------------- | ---------------: |
 | [◀︎ 05-aggiungi-la-tua-foto](../05-aggiungi-la-tua-foto)| [07-aggiungi-una-sezione-colorata ▶︎](../07-aggiungi-una-sezione-colorata) |
 
+Cominciamo a dare una forma più solida alla struttura del nostro sito.
+
 - Vai su [Bulma](https://bulma.io/documentation/) e cerca come inserire **2 colonne**
 
 ![Bulma columns](../assets/bulma-columns.gif)

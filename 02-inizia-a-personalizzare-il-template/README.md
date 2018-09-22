@@ -6,13 +6,13 @@
 
 ### Obiettivo: personalizzare il template con una piccola biografia
 
-> Gli elementi HTML sono gli elementi costitutivi delle pagine HTML
-> 
-> Gli elementi sono costituiti da tag e possono avere degli attributi
-> 
-> I tag HTML etichettano parti di contenuto come "heading", "paragraph", "table" e così via
+> Le pagine HTML sono costituite da diversi elementi specifici per questo tipo di documenti.
 >
-> I browser non visualizzano i tag HTML, ma li usano per rendere il contenuto della pagina
+> Gli elementi sono costituiti da cosiddetti "tag" e possono avere degli attributi.
+>
+> I tag HTML etichettano parti di contenuto come "heading", "paragraph", "table" e così via.
+>
+> I browser non visualizzano i tag HTML, ma li leggono e li usano per rendere leggibile il contenuto della pagina.
 
 
 <kbd>![02-elementi-tag](../assets/Lessons/02-elementi-tag.png)</kbd>
