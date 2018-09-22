@@ -2,7 +2,7 @@
 
 |                                                           | Capitolo successivo                                            |
 | :-------------------------------------------------------- | -------------------------------------------------------------: |
-| [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-prepara-il-tuo-progetto ▶︎](../01-prepara-il-tuo-progetto) |
+| [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |
 
 ## Obiettivo: 
 Creare l'ambiente di lavoro
@@ -19,4 +19,4 @@ Creare l'ambiente di lavoro
 
 |                                                           | Capitolo successivo                                            |
 | :-------------------------------------------------------- | -------------------------------------------------------------: |
-| [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-prepara-il-tuo-progetto ▶︎](../01-prepara-il-tuo-progetto) |
+| [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |
