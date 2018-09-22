@@ -7,7 +7,8 @@
 - Scegli una tua immagine e copiala nella cartella del progetto.
 - Cerca in [Bulma](https://bulma.io/documentation/) l'elemento che ti permette di aggiungere un'immagine
 - Incolla l’elemento per l’immagine sopra il tag  `<h1 class="title">` 
-- Sostituisci l’interno di  `src="..."`  con il nome della tua immagine, compresa l’estensione (.png o .jpg)
+- Sostituisci il contenuto dell'attributo `src` con il nome della tua immagine, compresa l’estensione (.png o .jpg)
+Es. `src="miaFoto.png"`
 - Ricarica la pagina nel browser per vedere il risultato
 
 <img src="../assets/Lessons/05-image.png" width="30%"/>
