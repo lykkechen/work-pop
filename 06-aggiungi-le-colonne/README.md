@@ -9,7 +9,7 @@
 ![Bulma columns](../assets/bulma-columns.gif)
 
 - Copia le colonne subito sotto al `<div class="container">`
-- Nella prima inserisci tutto il tag relativo all’immagine
+- Nella prima inserisci tutto il tag relativo all’immagine profilo fatto precedentemente
 - Nella seconda, inserisci il tuo nome e le icone col testo relative al tuo anno e luogo di nascita
 - Ricarica la pagina per vedere il risultato 😍
 
