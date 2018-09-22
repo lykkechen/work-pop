@@ -4,10 +4,14 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
 | [◀︎ 01-comincia-a-preparare-il-tuo-progetto](../01-comincia-a-preparare-il-tuo-progetto)  | [03-crea-un-altra-sezione ▶︎](../03-crea-un-altra-sezione) |
 
+Obiettivo: personalizzare il template con una piccola biografia
 
 > Gli elementi HTML sono gli elementi costitutivi delle pagine HTML
+> 
 > Gli elementi sono costituiti da tag e possono avere degli attributi
+> 
 > I tag HTML etichettano parti di contenuto come "heading", "paragraph", "table" e così via
+>
 > I browser non visualizzano i tag HTML, ma li usano per rendere il contenuto della pagina
 
 
