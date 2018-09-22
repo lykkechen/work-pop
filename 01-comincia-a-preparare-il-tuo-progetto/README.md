@@ -1,14 +1,14 @@
-# 01-prepara-il-tuo-progetto
+# 01-comincia-a-preparare-il-tuo-progetto 
 
 |                                                           | Capitolo successivo                                                                    |
 | :-------------------------------------------------------- | -------------------------------------------------------------------------------------: |
 | [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [02-inizia-a-personalizzare-il-template ▶︎](../02-inizia-a-personalizzare-il-template) |
 
-Obiettivo: creare il nostro documento HTML, un file con estensione `.html`
+## Obiettivo: creare il nostro documento HTML, un file con estensione `.html`
 
 
 - Per comodità creiamo una cartella vuota, puoi chiamarla `coding-is-poplar`
-- Apri **visual studio code** e apri la cartella con `File > Apri…`
+- Apri **Visual Studio Code** e apri la cartella con `File > Apri…`
 
 
 <kbd>![apri-progetto](../assets/apri-progetto.png)</kbd>
@@ -23,15 +23,15 @@ Obiettivo: creare il nostro documento HTML, un file con estensione `.html`
 
 
 > Come puoi vedere un documento HTML è composto da due parti principali, una parte superiore chiamata 'head' (testa) e una parte inferiore chiamata "body" (corpo).
-
+>
 > Il head contiene il titolo della pagina (quello sulla tab), link esterni per il corretto funzionamento. Noi per utilizzare bulma inseriamo il link all'interno del head.
-
+>
 >Il body contiene invece tutto ciò che sarà visibile, come il i titoletti, i paragrafi, le immagini, ecc.
 
 - Vai nella cartella `coding-is-poplar`, con il tasto destro apri con un browser `index.html` per visualizzare la pagina.
 
 
-###### Come puoi vedere hai appena una pagina web 😍
+### Come puoi vedere hai appena una pagina web 😍
 
 
 <kbd>![01-image](../assets/Lessons/01-image.png)</kbd>

@@ -2,7 +2,7 @@
 
 |                                                           | Capitolo successivo                                            |
 | :-------------------------------------------------------- | -------------------------------------------------------------: |
-| [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-prepara-il-tuo-progetto ▶︎](../01-prepara-il-tuo-progetto) |
+| [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |
 
 ## Obiettivo: 
 Creare l'ambiente di lavoro
@@ -13,10 +13,10 @@ Creare l'ambiente di lavoro
 * Qui trovi il [link: https://code.visualstudio.com](https://code.visualstudio.com)
   
 #### 2. Attiva il salvataggio automatico
-1. Apri Visual Studio Code 
-2. Clicca su File 
+1. Apri **Visual Studio Code**
+2. Clicca su `File`
 3. Spunta l’opzione **salvataggio automatico**
 
 |                                                           | Capitolo successivo                                            |
 | :-------------------------------------------------------- | -------------------------------------------------------------: |
-| [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-prepara-il-tuo-progetto ▶︎](../01-prepara-il-tuo-progetto) |
+| [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |
