@@ -17,7 +17,7 @@ Questo è ciò che vogliamo ottenere, date un'occhiata [qui](https://ladygaga-re
 
 ### HTML
 
-HTML è il linguaggio che definisce la struttura di una pagina web, dal titolo ai paragrafi, all'impaginazione. È quel codice che permette al browser di mostrare il contenuto del tuo documento HTML.
+HTML _(Hyper-Text Markup Language)_ è il linguaggio che definisce la struttura di una pagina web, dal titolo ai paragrafi, all'impaginazione. È quel codice che permette al browser di mostrare il contenuto del tuo documento HTML.
 
 ### CSS
 
