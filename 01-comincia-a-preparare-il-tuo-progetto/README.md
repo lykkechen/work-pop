@@ -1,4 +1,4 @@
-# 01-prepara-il-tuo-progetto
+### 01-prepara-il-tuo-progetto
 
 |                                                           | Capitolo successivo                                                                    |
 | :-------------------------------------------------------- | -------------------------------------------------------------------------------------: |
@@ -23,10 +23,10 @@ Obiettivo: creare il nostro documento HTML, un file con estensione `.html`
 
 
 > Come puoi vedere un documento HTML è composto da due parti principali, una parte superiore chiamata 'head' (testa) e una parte inferiore chiamata "body" (corpo).
-
+>
 > Il head contiene il titolo della pagina (quello sulla tab), link esterni per il corretto funzionamento. Noi per utilizzare bulma inseriamo il link all'interno del head.
-
->Il body contiene invece tutto ciò che sarà visibile, come il i titoletti, i paragrafi, le immagini, ecc.
+>
+> Il body contiene invece tutto ciò che sarà visibile, come il i titoletti, i paragrafi, le immagini, ecc.
 
 - Vai nella cartella `coding-is-poplar`, con il tasto destro apri con un browser `index.html` per visualizzare la pagina.
 

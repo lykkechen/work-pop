@@ -4,7 +4,7 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
 | [◀︎ 01-comincia-a-preparare-il-tuo-progetto](../01-comincia-a-preparare-il-tuo-progetto)  | [03-crea-un-altra-sezione ▶︎](../03-crea-un-altra-sezione) |
 
-Obiettivo: personalizzare il template con una piccola biografia
+### Obiettivo: personalizzare il template con una piccola biografia
 
 > Gli elementi HTML sono gli elementi costitutivi delle pagine HTML
 > 
