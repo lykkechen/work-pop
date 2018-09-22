@@ -32,11 +32,7 @@ Infatti, per utilizzare Bulma oggi, inseriamo il suo link proprio all'interno de
 - Vai nella cartella `coding-is-poplar`, con il tasto destro apri con un browser `index.html` per visualizzare la pagina.
 
 
-<<<<<<< HEAD
-###### Come puoi vedere hai appena creato una pagina web 😍
-=======
 ### Come puoi vedere hai appena una pagina web 😍
->>>>>>> 92d3688c29f325f268022125e1a72613d9055e51
 
 
 <kbd>![01-image](../assets/Lessons/01-image.png)</kbd>
