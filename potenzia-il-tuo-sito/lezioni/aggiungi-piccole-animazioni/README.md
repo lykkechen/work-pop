@@ -27,3 +27,5 @@ Per fare in modo che un elemento si ingrandisca quando ci passi sopra con il mou
 Questa proprietà ti permetterà di scegliere quanto deve ingrandirsi l'icona al passaggio del mouse.
 
 Noi abbiamo inserito 1.3, ma ti consigliamo di provare altri valori e sperimentare 😊
+
+![hover-scale](../assets/hover-scale.gif)
