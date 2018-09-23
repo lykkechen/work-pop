@@ -46,6 +46,7 @@ Se ora proverai a passare sopra l'icona, noterai che cambierà colore 😊
 
 ![hover-color](../../assets/hover-color.gif)
 
+---
 
 # Aggiungere l'effetto soltando ad alcuni elementi
 
@@ -60,3 +61,5 @@ Ad esempio:
   color: red;
 }
 ```
+
+Se adesso aggiungerai la classe `cambia-colore` soltanto ad alcune icone, vedrai che l'effetto si applicherà soltanto agli elementi a cui hai aggiunto la classe.
