@@ -6,7 +6,7 @@ Ci sono diversi modi per personalizzarlo:
 
 ## Index
 
-- [Personalizza lo stile del sito](personalizza-stile)
-- [Aggiungi un menu](aggiungi-menu)
-- [Aggiungi un video Youtube](aggiungi-un-video-youtube)
-- [Aggiungi delle nuove pagine al tuo sito](aggiungi-nuove-pagine)
+- [Personalizza lo stile del sito](lezioni/personalizza-stile)
+- [Aggiungi un menu](lezioni/aggiungi-menu)
+- [Aggiungi un video Youtube](lezioni/aggiungi-un-video-youtube)
+- [Aggiungi delle nuove pagine al tuo sito](lezioni/aggiungi-nuove-pagine)
