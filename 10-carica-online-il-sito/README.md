@@ -1,8 +1,8 @@
 # 10-carica-online
 
-| Capitolo precedente | Introduzione |
-| :--------------- | ---------------: |
-| [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti)| [https://github.com/lykkechen/work-pop/ ▶︎](https://github.com/lykkechen/work-pop/) |
+| Capitolo precedente                                                  | Torna all'introduzione                                    |
+| :------------------------------------------------------------------- | --------------------------------------------------------: |
+| [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti) | [Introduzione ▶︎](https://github.com/lykkechen/work-pop/) |
 
 Dopo aver seguito tutte le istruizioni, ora anche tu hai creato la tua personalissima pagina web. Manca ancora un ultimo, fondamentale, passaggio che rende tale un sito web: caricarlo online.
 Per fare ciò ci sono diversi dettgli da seguire:
@@ -24,6 +24,6 @@ Oggi utilizzerai [Netlify](https://www.netlify.com) un servizio di hosting gratu
 ![10-image-1.png](../assets/Lessons/10-image-1.png)
 
 
-| Capitolo precedente  | Introduzione |
-| :--------------- | ---------------: |
-| [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti)| [https://github.com/lykkechen/work-pop/ ▶︎](https://github.com/lykkechen/work-pop/) |
+| Capitolo precedente                                                  | Torna all'introduzione                                    |
+| :------------------------------------------------------------------- | --------------------------------------------------------: |
+| [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti) | [Introduzione ▶︎](https://github.com/lykkechen/work-pop/) |
