@@ -28,4 +28,4 @@ Questa proprietà ti permetterà di scegliere quanto deve ingrandirsi l'icona al
 
 Noi abbiamo inserito 1.3, ma ti consigliamo di provare altri valori e sperimentare 😊
 
-![hover-scale](../assets/hover-scale.gif)
+![hover-scale](../../assets/hover-scale.gif)
