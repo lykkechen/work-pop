@@ -47,10 +47,11 @@ Il workshop è strutturato in 10 capitoli, all'interno di ognuno troverai una br
 --- 
 
 
-# Potenzia il tuo sito
+# Potenzia il tuo sito 🚀
 
 Una volta che avrai creato il tuo sito potrai potenziarlo e personalizzarlo.
-Puoi cliccare qui per scoprire come fare: [Potenzia il tuo sito](potenzia-il-tuo-sito)
+
+👉 Puoi cliccare qui per scoprire come fare: [Potenzia il tuo sito](potenzia-il-tuo-sito)
 
 
 ---
