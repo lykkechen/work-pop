@@ -1,8 +1,8 @@
 # 09-crea-una-sezione-contatti
 
-| Capitolo precedente  |      |
-| :--------------- | ---------------: |
-| [◀︎ 08-crea-section-per-esperienze](../08-crea-section-per-esperienze)| [▶︎](https://github.com/lykkechen/work-pop/) |
+| Capitolo precedente                                                    | Capitolo successivo                                        |
+| :--------------------------------------------------------------------- | ---------------------------------------------------------: |
+| [◀︎ 08-crea-section-per-esperienze](../08-crea-section-per-esperienze) | [10-carica-online-il-sito ▶︎](../10-carica-online-il-sito) |
 
 La sezione contatti è una parte molto importante del sito web: questa faciliterà molto la possibilità dell'utente interessato ai contenuti del sito di mettersi in contatto con te, ma soprattutto di mettere in moto il passaparola grazie al collegamento con le reti sociali.
 
@@ -17,6 +17,6 @@ Se vuoi, puoi aggiungere altri anchor tag e inserire altri collegamenti ad altri
 <kbd>![09-image.png](../assets/Lessons/09-image.png)</kbd>
 
 
-| Capitolo precedente  |      |
-| :--------------- | ---------------: |
-| [◀︎ 08-crea-section-per-esperienze](../08-crea-section-per-esperienze)| [▶︎](https://github.com/lykkechen/work-pop/) |
+| Capitolo precedente                                                    | Capitolo successivo                                        |
+| :--------------------------------------------------------------------- | ---------------------------------------------------------: |
+| [◀︎ 08-crea-section-per-esperienze](../08-crea-section-per-esperienze) | [10-carica-online-il-sito ▶︎](../10-carica-online-il-sito) |

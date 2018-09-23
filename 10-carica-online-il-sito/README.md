@@ -1,6 +1,6 @@
 # 10-carica-online
 
-| Capitolo precedente | Intro |
+| Capitolo precedente | Introduzione |
 | :--------------- | ---------------: |
 | [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti)| [https://github.com/lykkechen/work-pop/ ▶︎](https://github.com/lykkechen/work-pop/) |
 
@@ -24,6 +24,6 @@ Oggi utilizzerai [Netlify](https://www.netlify.com) un servizio di hosting gratu
 ![10-image-1.png](../assets/Lessons/10-image-1.png)
 
 
-| Capitolo precedente  | Intro |
+| Capitolo precedente  | Introduzione |
 | :--------------- | ---------------: |
 | [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti)| [https://github.com/lykkechen/work-pop/ ▶︎](https://github.com/lykkechen/work-pop/) |
