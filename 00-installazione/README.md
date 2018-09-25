@@ -11,7 +11,7 @@ Prendere confidenza con gli strumenti del mestiere.
 Questo è un passaggio fondamentale per la buona riuscita del proprio progetto:
 a stumenti potenti ed efficaci corrispondono una più celere gestione del proprio tempo e quindi un lavoro migliore e meno stressante
 
-Nel nostro caso, oggi utilizzeremo "Visual Studio Code", un editor di testo molto comodo adatto a tutti gli OS.
+Nel nostro caso, oggi utilizzeremo "Visual Studio Code", un editor di testo molto comodo adatto a tutti i sistemi operativi (es. Windows, MacOS, Linux).
 
 ## Step:
 
