@@ -9,13 +9,14 @@ Creare un menù che permetta di accedere alle altre pagine del tuo sito.
 1. Crea un nuovo file che abbia l'estensione `.html`.
   * Questo file corrisponderà alla tua nuova pagina.
   * Ad esempio puoi creare una pagina `about.html`
-  * Nel tuo file `.html` appena creato, copia il contenuto del file `index.html`
+  * Nel tuo file `.html` appena creato, copia il contenuto del file `index.html` creato precedentemente nel workshop.
    
 2. Ora puoi andare su [Bulma](https://bulma.io) e cercare il componente **Navbar menu**
 
 3. Copialo e incolla la struttura come primo elemento del tag `body`
 
 4. Dentro il `div class="navbar-menu"` inserisci un `div class="navbar-end"`
+  > Il navbar-end ti permette di avere il tuo menù a destra
 
 5. All'interno di quest'ultimo inserisci un `div class="navbar-item"` per ogni diversa pagina che desideri avere sul tuo sito.
 
@@ -30,5 +31,3 @@ Creare un menù che permetta di accedere alle altre pagine del tuo sito.
 
 
 Adesso puoi iniziare a personalizzare il contenuto della tua nuova pagina 😍
-
-Noi ti consigliamo di copiare tutto il `nav class "navbar"` e di inserire all'interno della tua navbar un `<div class="navbar-brand">` con all'interno un tag `<a href="index.html">` in modo tale da avere un collegamento che ti possa riportare alla pagina iniziale del tuo sito. 
