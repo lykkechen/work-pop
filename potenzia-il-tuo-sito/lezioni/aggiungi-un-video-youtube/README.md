@@ -3,10 +3,8 @@
 ### Prerequisiti
 - Conoscere come aggiungere degli stili personalizzati [Qui il link alla lezione](../aggiungi-stile-personalizzato)
 
-- Crea una section dove inserirai il codice del video
-- Crea nella section un `div class="videowrapper"`
 
-Per ottenere un video responsive, che sia facilmente visualizzabile anche da mobile, e centrato dovrai inserire le seguenti classi nello `style`:
+Per ottenere un video responsive, che sia facilmente visualizzabile anche da mobile, e centrato, dovrai inserire le seguenti classi nello `style`:
 
 ```
 .videowrapper {
@@ -34,4 +32,4 @@ Per ottenere un video responsive, che sia facilmente visualizzabile anche da mob
 - Inserisci il codice dentro il `div class="videowrapper"`
 
 Ora puoi andare a vedere il bellissimo video sul tuo sito 😍
-<kbd>![../assets/youtube-image.png](../assets/youtube-image.png)</kbd>
+<kbd>![../assets/youtube-image.png](../../assets/youtube-image.png)</kbd>
