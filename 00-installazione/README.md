@@ -1,8 +1,10 @@
 # 00-installazione
 
-|                                                           | Capitolo successivo                                            |
-| :-------------------------------------------------------- | -------------------------------------------------------------: |
+|                                                           | Capitolo successivo                                                                      |
+| :-------------------------------------------------------- | ---------------------------------------------------------------------------------------: |
 | [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |
+
+
 
 ## Obiettivo:
 Prendere confidenza con gli strumenti del mestiere.
@@ -21,6 +23,9 @@ Nel nostro caso, oggi utilizzeremo "Visual Studio Code", un editor di testo molt
 2. Clicca su `File`
 3. Spunta l’opzione **salvataggio automatico**
 
-|                                                           | Capitolo successivo                                            |
-| :-------------------------------------------------------- | -------------------------------------------------------------: |
+
+
+
+|                                                           | Capitolo successivo                                                                      |
+| :-------------------------------------------------------- | ---------------------------------------------------------------------------------------: |
 | [◀︎ Introduzione](https://github.com/lykkechen/work-pop/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |
