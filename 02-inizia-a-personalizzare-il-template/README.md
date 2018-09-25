@@ -4,10 +4,12 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------: |
 | [◀︎ 01-comincia-a-preparare-il-tuo-progetto](../01-comincia-a-preparare-il-tuo-progetto)  | [03-modifica-il-layout ▶︎](../03-modifica-il-layout) |
 
-### Obiettivo: personalizzare il template con una piccola biografia
+## Obiettivo: 
+
+Personalizzare il template con una piccola biografia
 
 
-> Le pagine HTML sono costituite da diversi elementi specifici per questo tipo di documenti.
+> Le pagine HTML sono costituite da diversi elementi HTML specifici.
 >
 > Gli elementi, a loro volta, sono costituiti da tag e possono avere degli attributi
 >
