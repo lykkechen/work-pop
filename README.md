@@ -74,9 +74,9 @@ Per ulteriori approfondimenti puoi visitare questi siti:
 
 👩🏻‍💻 Questo sito ti permette invece di comprendere meglio la [struttura HTML](https://htmlreference.io/base/)
 
-👩🏻‍💻 [Codacademy](https://www.codacademy.com)
-
-👩🏻‍💻 [Khan Academy](https://it.khanacademy.org/computing/computer-programming/html-css)
+👩🏻‍💻 Tutorial gratuiti riguardo al coding: 
+- [Codeacademy](https://www.codeacademy.com)
+- [Khan Academy](https://it.khanacademy.org/computing/computer-programming/html-css)
 
 
 ## Contatti
