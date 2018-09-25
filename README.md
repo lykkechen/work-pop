@@ -86,8 +86,11 @@ Se vuoi rimanere aggiornata sui nostri prossimi eventi, qui trovi i nostri conta
 ### GirlsCodeIt
 
 🔵 Facebook: [@girlscodeit](https://www.facebook.com/girlscodeit)
+
 🌐 Sito web: [www.girlscode.it](https://girlscode.it)
+
 🦋 Twitter: [@GirlsCodeIt](https://twitter.com/GirlsCodeIt)
+
 ✉️ Newsletter: [GirlsodeIt Newsletter](https://girlscode.us19.list-manage.com/subscribe/post?u=90e772cb7ee87ce13f8a905d9&id=4844926930)
 
 ### MindTheGap
