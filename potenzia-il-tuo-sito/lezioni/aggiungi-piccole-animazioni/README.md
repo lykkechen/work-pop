@@ -8,9 +8,9 @@ Aggiungere delle piccole e semplici animazioni all'interno del sito
 
 Creare un'animazione che viene attivata al passaggio del mouse, può aiutare a mettere in risalto gli elementi cliccabili.
 
-Per fare in modo che un elemento si ingrandisca quando ci passi sopra con il mouse, puoi aggiungere un effetto che viene attivato quando c'è un `hover`
+Per fare in modo che un elemento si ingrandisca quando ci passi sopra con il mouse, puoi aggiungere un effetto chiamato `hover`
 
-1. Come prima cosa aggiungi un tag all'interno dell'**head** della tua pagina
+1. Come prima cosa aggiungi un tag `style` all'interno dell'**head** della tua pagina
 
 2. Ora puoi scrivere la tua classe, seguendo questa struttura:
   >
@@ -26,7 +26,7 @@ Per fare in modo che un elemento si ingrandisca quando ci passi sopra con il mou
 
 Questa proprietà ti permetterà di scegliere quanto deve ingrandirsi l'icona al passaggio del mouse.
 
-Noi abbiamo inserito 1.3, ma ti consigliamo di provare altri valori e sperimentare 😊
+Noi abbiamo inserito `1.3`, ma ti consigliamo di provare altri valori e sperimentare 😊
 
 ![hover-scale](../../assets/hover-scale.gif)
 
@@ -48,7 +48,7 @@ Se ora proverai a passare sopra l'icona, noterai che cambierà colore 😊
 
 ---
 
-# Aggiungere l'effetto soltando ad alcuni elementi
+# Aggiungere l'effetto soltanto ad alcuni elementi
 
 Aggiungendo l'hover alla classe `.icon`, avrai notato che adesso tutte quante le icone del tuo sito avranno lo stesso effetto, questo perché l'effetto della classe di stile `.icon:hover` viene applicato su tutti gli elementi che hanno la classe **icon**.
 
