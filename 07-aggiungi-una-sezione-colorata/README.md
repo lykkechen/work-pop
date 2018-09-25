@@ -4,6 +4,9 @@
 | :--------------- | ---------------: |
 | [◀︎ 06-aggiungi-le-colonne](../06-aggiungi-le-colonne)| [08-crea-section-per-esperienze ▶︎](../08-crea-section-per-esperienze) |
 
+## Obiettivo:
+Aggiungere una sezione colorata
+
 Anche le sezioni colorate facilitano molto lettura da parte dell'utente che visita il sito, e conferiscono carattere allo stile che si cerca di seguire.
 Ora, quindi, proviamo a creare delle sezioni colorate sulla nostra pagina:
 
