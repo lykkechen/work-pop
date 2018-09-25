@@ -4,7 +4,9 @@
 | :--------------- | ---------------: |
 | [◀︎ 05-aggiungi-la-tua-foto](../05-aggiungi-la-tua-foto)| [07-aggiungi-una-sezione-colorata ▶︎](../07-aggiungi-una-sezione-colorata) |
 
-Cominciamo a dare una forma più solida alla struttura del nostro sito.
+## Obiettivo:
+
+Dare una forma più solida alla struttura del nostro sito.
 
 - Vai su [Bulma](https://bulma.io/documentation/) e cerca come inserire **2 colonne**
 
@@ -18,7 +20,7 @@ Cominciamo a dare una forma più solida alla struttura del nostro sito.
 Come vedrai le colonne hanno la stessa dimensione, ovvero ognuna occupa metà dello schermo.
 
 - Cerca su [Bulma](https://bulma.io/documentation/) le varie classi che si possono aggiungere alle colonne.
-- Noi abbiamo impostato le proporzioni della prima colonna affinché sia di 1/3 e il testo di 2/3
+- Ad esempio noi abbiamo impostato le proporzioni della prima colonna affinché sia di 1/3 e il testo di 2/3
 - Sperimenta con le varie classi e poi osserva il risultato ricaricando la pagina del browser 😍
 
 <kbd>![06-image.png](../assets/Lessons/06-image.png)</kbd>
