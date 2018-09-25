@@ -11,7 +11,8 @@ Le immagini sono fondamentali per dare carattere a un sito e anche per renderlo 
 - Incolla l’elemento per l’immagine sopra il tag  `<h1 class="title">` 
 - Sostituisci il contenuto dell'attributo `src` con il nome della tua immagine, compresa l’estensione (.png o .jpg)
   
-Es. `src="miaFoto.png"`
+> Es. `src="miaFoto.png"`
+
 - Ricarica la pagina nel browser per vedere il risultato
 
 <img src="../assets/Lessons/05-image.png" width="30%"/>
