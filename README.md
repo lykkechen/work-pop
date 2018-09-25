@@ -2,8 +2,9 @@
 
 ## Obiettivo di oggi!
 
-Realizzare un sito web da zero 😊
-Questo è ciò che vogliamo ottenere, date un'occhiata [qui](https://ladygaga-resume.netlify.com/) 😉
+Imparare le basi dell'HTML e del CSS costruendo il proprio sito e pubblicandolo online 😊
+
+Questo è un esempio di quello che potrete realizzare: [guarda qui](https://ladygaga-resume.netlify.com/) 😉
 
 
 ---
@@ -32,17 +33,17 @@ Il workshop è strutturato in 10 capitoli, all'interno di ognuno troverai una br
 
 # Indice dei capitoli
 
-00. [Installazione](00-installazione)
-1. [Comincia il tuo progetto](01-comincia-a-preparare-il-tuo-progetto)
-2. [Inizia a personalizzare il template](02-inizia-a-personalizzare-il-template)
-3. [Modifica il layout](03-modifica-il-layout)
-4. [Aggiungi le prime icone](04-aggiungi-le-prime-icone)
-5. [Aggiungi la tua foto](05-aggiungi-la-tua-foto)
-6. [Aggiungi le colonne](06-aggiungi-le-colonne)
-7. [Aggiungi una sezione colorata](07-aggiungi-una-sezione-colorata)
-8. [Crea una section per le tue esperienze](08-crea-section-per-esperienze)
-9. [Crea una sezione contatti](09-crea-una-sezione-contatti)
-1. [Carica online il sito](10-carica-online-il-sito)
+1.  [Installazione](00-installazione)
+2. [Comincia il tuo progetto](01-comincia-a-preparare-il-tuo-progetto)
+3. [Inizia a personalizzare il template](02-inizia-a-personalizzare-il-template)
+4. [Modifica il layout](03-modifica-il-layout)
+5. [Aggiungi le prime icone](04-aggiungi-le-prime-icone)
+6. [Aggiungi la tua foto](05-aggiungi-la-tua-foto)
+7. [Aggiungi le colonne](06-aggiungi-le-colonne)
+8. [Aggiungi una sezione colorata](07-aggiungi-una-sezione-colorata)
+9. [Crea una section per le tue esperienze](08-crea-section-per-esperienze)
+10. [Crea una sezione contatti](09-crea-una-sezione-contatti)
+11. [Carica online il sito](10-carica-online-il-sito)
 
 --- 
 
