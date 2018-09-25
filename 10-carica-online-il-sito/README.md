@@ -4,11 +4,15 @@
 | :------------------------------------------------------------------- | --------------------------------------------------------: |
 | [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti) | [Introduzione ▶︎](https://github.com/lykkechen/work-pop/) |
 
+
+## Obiettivo: 
+Caricare online il sito che hai creato
+
 Dopo aver seguito tutte le istruizioni, ora anche tu hai creato la tua personalissima pagina web. Manca ancora un ultimo, fondamentale, passaggio che rende tale un sito web: caricarlo online.
 Per fare ciò ci sono diversi dettgli da seguire:
 
-- Per caricare un sito online serve un servizio che metta a disposizione uno spazio online.
-Oggi utilizzerai [Netlify](https://www.netlify.com) un servizio di hosting gratuito.
+- Per caricare un sito online serve un servizio che metta a disposizione uno spazio online. Oggi utilizzerai [Netlify](https://www.netlify.com) un servizio di hosting gratuito.
+  
 - Prima di tutto dovrai crearti un account
 - Dopodiché accedi al tuo account e trascina la cartella contente il tuo `index.html` ed eventuali immagini
 - Ora il tuo sito è già online, può accederci cliccando sul link in alto a sinistra 🎉🎉
